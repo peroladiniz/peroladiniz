@@ -3,14 +3,13 @@
 
 • Estudante de Análise e Desenvolvimento de Sistemas na USJT, atualmente focada no desenvolvimento de habilidades em Java, Spring e SQL. Estou sempre em busca de aprimorar minhas competências técnicas e me manter atualizada com as tendências do mundo da tecnologia.
 
-• Pronomes: Ela/Dela.
 
 
 
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/p%C3%A9rola-diniz-685228300//)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](//)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:peroladnizz@hotmail.com)
 
 
