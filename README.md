@@ -1,7 +1,7 @@
 ## System.out.println(“Bem Vindo ao meu Perfil!”😊)
 
 
-• Estudante de Análise e Desenvolvimento de Sistemas na USJT, atualmente focada no desenvolvimento de habilidades em Java, Spring e SQL. Estou sempre em busca de aprimorar minhas competências técnicas e me manter atualizada com as tendências do mundo da tecnologia.
+• Graduanda em Análise e Desenvolvimento de Sistemas pela USJT, com foco no desenvolvimento de habilidades em Java, Spring, SQL, C# e Angular. Estou constantemente buscando evoluir tecnicamente e me manter alinhada às tendências e inovações do setor de tecnologia.
 
 
 
